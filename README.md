@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
-<h3 align="center">4rd Year Computer Engineering Student</h3>
+<h3 align="center">Fresh Graudated</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=conquerorhub&label=Profile%20views&color=0e75b6&style=flat" alt="conquerorhub" /> </p>
 
